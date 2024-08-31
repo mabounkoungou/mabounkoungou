@@ -24,7 +24,7 @@
   <a href="mailto:mabounkoungou001@st.ug.edu.gh">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammed-al-jabbar-08b089238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBudrjJNTDeMugsmH%2BKA7Q%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mabounkoungou.github.io" target="_blank">
