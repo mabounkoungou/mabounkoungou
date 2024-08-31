@@ -47,7 +47,8 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <br>
 <div align="center">
-    ![snake animation](https://raw.githubusercontent.com/mabounkoungou/mabounkoungou/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mabounkoungou/mabounkoungou/blob/output/github-contribution-grid-snake.gif)
+
 
 </div>
 
