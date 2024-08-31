@@ -44,14 +44,12 @@
 <br/>
 <hr/>
 
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img alt="snake eating my contributions" src="https://github.com/mabounkoungou/mabounkoungou/blob/output/github-contribution-grid-snake.svg" />
-
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://github.com/mabounkoungou/mabounkoungou/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
 
 <hr/>
 

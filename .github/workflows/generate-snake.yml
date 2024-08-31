@@ -1,9 +1,9 @@
 name: Generate Snake
 
-# Trigger the workflow on a schedule (daily at midnight) and when manually triggered
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,18 +11,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the repository's code
+      # Check out the repository content
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      # Generate the snake animation and save it as dist/snake.svg
+      # Generate the snake animation
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
           github_user_name: mabounkoungou
           outputs: dist/snake.svg
 
-      # Upload the snake SVG to GitHub's artifacts
+      # Upload the snake SVG as an artifact
       - name: Upload Snake Animation
         uses: actions/upload-artifact@v2
         with:
