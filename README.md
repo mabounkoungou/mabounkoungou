@@ -69,5 +69,4 @@
 <br/><br/>
 ![snake gif](https://github.com/mabounkoungou/mabounkoungou/blob/output/github-contribution-grid-snake.svg)
 
-
     
